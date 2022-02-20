@@ -2,4 +2,7 @@
 int div(int a,int b)
 return a/b;
 //subtraction
+int sub(int a,int b)
+return a-b;
+
 
